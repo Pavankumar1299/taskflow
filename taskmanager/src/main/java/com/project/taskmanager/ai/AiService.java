@@ -9,7 +9,7 @@ import java.util.*;
 @Service
 public class AiService {
 
-    private final String API_KEY = "AIzaSyBa9f1Z9-SaQfj442aV2gKIVKMVh_VK_bI";
+    private final String API_KEY = "API_KEY";
 
     public String generateTask(String input) {
 
